@@ -13,7 +13,7 @@
     font-style: italic;
     margin-top: 50px;
     font-size: 2em;
-    background-color: blue;
+    background-color: pink;
 }
 #botones{
     position: absolute;
@@ -24,7 +24,7 @@
     background-color: green;
 }
 .boton_off{
-    background-color: blue;
+    background-color: yellowgreen;
 }
 button>a{
     color: white;
