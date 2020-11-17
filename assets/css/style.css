@@ -5,7 +5,7 @@
     font-family:"comic sans ms" ;
 }
 .fondo{
-    background-image: url(/assets/image/design2_image1.jpg);
+    background-image: url(../image/design2_image1.jpg);
     background-size: 100% 100%;
     height: 700px;
 }
@@ -45,7 +45,7 @@ button{
     border: solid;
 }
 #logo{
-    content: url(/assets/image/nysl_logo.png);
+    content: url(../image/nysl_logo.png);
     float: left;
     width: 10%;
     margin:30px 50px 0px 10px;
