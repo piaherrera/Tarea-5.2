@@ -13,6 +13,7 @@
     font-style: italic;
     margin-top: 50px;
     font-size: 2em;
+    background-color: blue;
 }
 #botones{
     position: absolute;
